@@ -1,0 +1,28 @@
+*{
+    border: 0;
+    box-sizing: border-box;
+    margin: 0;
+    outline: 0;
+    padding: 0;
+}
+
+html {
+    font-family: roboto;
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    line-height: 150%;
+    color: rgba(0, 0, 0, 1);
+    background-color: #ffff;
+}
+
+.container {
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+.fs{
+    background-image: url(/assets/images/BG.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
